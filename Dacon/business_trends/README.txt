@@ -1,22 +1,23 @@
 # Dacon 구직자를 위한 기업 트렌드 시각화
-# 한국고용정보원에서 주최
+한국고용정보원에서 주최
 
-# 내가 맡은 부분은 3번째 워크넷 강소기업 API 시각화였다.
-
-
-# CODE
-# 강소기업 시각화.ipynb는 내가 작성한 것
-# 워크넷 api to csv_강소기업.ipynb : 강소기업 API파일 다운
-# 
-# ()는 다 같이 작성한 파일
+내가 맡은 부분은 3번째 워크넷 강소기업 API 시각화였다.
 
 
-# twbx
-# (링크)는 다 같이 만든 태블로 결과
-# 업종 지역별, 업종별 개수, 지역별 강소기업.twbx는 내가 작성한 것
+- CODE
+강소기업 시각화.ipynb는 내가 작성한 것
+워크넷 api to csv_강소기업.ipynb : 강소기업 API파일 다운
+[구직자를 위한 기업 트렌드 시각화 경진대회] KU MATH 20220126.ipynb : 다 같이 작성한 파일
 
-# csv
-# 강소기업 API_notnull.csv : 강소기업 데이터 저장된 파일 아래의 피처가 담겨있다.
+
+- twbx
+(https://public.tableau.com/views/KUMath_220126_16431921962140/KUMath_220126?:language=ko-KR&:display_count=n&:origin=viz_share_link/sheet0?:showVizHome=no&:embed=true#2) 
+다 같이 만든 태블로 결과
+
+업종 지역별, 업종별 개수, 지역별 강소기업.twbx는 내가 작성한 것
+
+csv
+강소기업 API_notnull.csv : 강소기업 데이터 저장된 파일 아래의 피처가 담겨있다.
 
 강소기업 API feature 정보
 선정연도 - 오래되었는지 파악하면 좋을 것 같다. (유지 여부?)
