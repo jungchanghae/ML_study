@@ -13,7 +13,7 @@
 - twbx
 (https://public.tableau.com/views/KUMath_220126_16431921962140/KUMath_220126?:language=ko-KR&:display_count=n&:origin=viz_share_link/sheet0?:showVizHome=no&:embed=true#2) 
 다 같이 만든 태블로 결과
-
+기업 시각화 경진대회(KU Math)_220126.twbx 다 같이 만든 스토리
 업종 지역별, 업종별 개수, 지역별 강소기업.twbx는 내가 작성한 것
 
 csv
